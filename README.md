@@ -1,3 +1,5 @@
+[github无法访问问题解决办法](https://github.com/Mario739880760/website_document/blob/main/fun_to_getin_github.md)
+
 [geo地图](http://datav.aliyun.com/tools/atlas/)
 
 [geo绘制工具](http://geojson.io/#map=4/26.51/-78.27)
