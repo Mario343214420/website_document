@@ -8,6 +8,8 @@
 
 [免费3d模型](https://free3d.com/)
 
+[3d模型](https://sketchfab.com/)
+
 [动效](https://techbrood.com/?o=vote%20DESC&q=)
 
 [日系配色](https://nipponcolors.com/)
